@@ -1,0 +1,50 @@
+----------------------------------------------------------------------------------------------------------------------------------
+**DOMAIN**
+
+Domain Name         : instagram.com
+
+----------------------------------------------------------------------------------------------------------------------------------
+**IPv4 address**
+
+IPv4 address        : 57.144.242.34
+
+----------------------------------------------------------------------------------------------------------------------------------
+**IPv6 address**
+
+IPv6 address        : 2a03:2880:f379:22:face:b00c:0:4420
+
+----------------------------------------------------------------------------------------------------------------------------------
+**MX mail servers**
+
+MX mail servers     : 20 mx0b-00082601.pphosted.com., 20 mx0a-00082601.pphosted.com., 10 mxa-00082601.gslb.pphosted.com., 10 mxb-00082601.gslb.pphosted.com.
+
+----------------------------------------------------------------------------------------------------------------------------------
+**NS authoritative name servers**
+
+NS authoritative name servers : a.ns.instagram.com., c.ns.instagram.com., d.ns.instagram.com., b.ns.instagram.com.
+
+----------------------------------------------------------------------------------------------------------------------------------
+**TXT records**
+
+TXT records         : "slack-domain-verification=2Sz3t8oHDaRB4aVudl36MIwEdb1XSR751nZGiDFv", "ms=ms86975275", "v=spf1 include:facebookmail.com include:_spf.fb.com -all", "google-site-verification=_iQgLr68Rdg7YnN2PqOljSG5dnWOFUUXISF9R77fs5c", "_yvfspgyfwcjnwgopowc9qjme14c32od", "hyWdekepiNsp/V9b1JCR+wZDdzbESurl4GqY+FLMfiN+7aeFaway0Art+kNDHeL5OnGZipNeV/iIC+lOONSQVQ==", "4cbb1b68-601f-4801-8e7f-e8f68a4a41dd", "adobe-idp-site-verification=367fda82-a8bb-46cf-9cff-0062d452d229", "google-site-verification=GGtId51KFyq0hqX2xNvt1u0P9Xp0C7k6pp9do49fCNw", "nEXgIFIbDifAKlSMQvAhly5SA-vpsAkm5wiOdwdkrzY", "facebook-domain-verification=hksvhmzcutq39t1kgpmlx11kt8314q"
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+       DNS ANALYSIS
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+[+] 1 IPv4 address discovered
+[+] 1 IPv6 address discovered
+[+] 4 MX mail servers discovered
+[+] 4 NS authoritative name servers discovered
+[+] 11 TXT records discovered
+
+--------------------------------------------------------------------------------------------------------------------------------------------
+       SUMMARY
+--------------------------------------------------------------------------------------------------------------------------------------------
+
+A Records           : 1
+AAAA Records        : 1
+MX Records          : 4
+NS Records          : 4
+TXT records         : 11
+CNAME Records       : 0
